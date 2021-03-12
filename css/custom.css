@@ -1,15 +1,1 @@
-@font-face {
-    font-family:'arzhu';
-    src:url('https://cdn.jsdelivr.net/gh/fristalpha/alpha/BlogPic/20210304223933.ttf');
-    font-display:swap
-}
-h1#site-title {
-    font-family:arzhu!important
-}
-span#subtitle {
-    font-family:arzhu!important
-}
-a#site-name {
-    font-family:arzhu!important
-}
-
+@font-face{font-family:arzhu;src:url(https://cdn.jsdelivr.net/gh/fristalpha/alpha/BlogPic/20210304223933.ttf);font-display:swap}h1#site-title{font-family:arzhu!important}span#subtitle{font-family:arzhu!important}a#site-name{font-family:arzhu!important}
